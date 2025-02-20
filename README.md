@@ -1,6 +1,6 @@
 # README: Complete Guide to C++ Programming Examples
 
-Welcome to the **Complete Guide to C++ Programming**! 🚀 This repository contains various C++ examples designed for beginners, covering fundamental concepts step by step. Below is an explanation of each example, why the libraries were used, and when to apply them.
+Welcome to the **Complete Guide to C++ Programming**! 🚀 This repository contains various C++ examples designed for concepts step by step. Below is an explanation of each example, why the libraries were used, and when to apply them.
 
 ## 📌 Table of Contents
 
